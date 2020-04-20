@@ -1,0 +1,3 @@
+Language Translator Project.
+This is done using Python.
+Very intresting project.
